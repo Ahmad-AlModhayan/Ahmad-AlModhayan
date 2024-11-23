@@ -1,5 +1,5 @@
 # 💫 About Me: <br/>
-🔭 I’m currently working as a Freelancer<br>👯 I’m looking to collaborate with Satoshi Nakamoto<br>🌱 I’m currently learning Quantitative Trading<br>💬 Ask me about AI, DS<br>⚡ Fun fact by 2045, AI is expected to completely surpass human intelligence.
+🔭 I’m currently working as a Freelancer<br>👯 I’m looking to collaborate with Satoshi Nakamoto<br>🌱 I’m currently learning Quantitative Trading<br>💬 Ask me about AI, DS<br>⚡ Fun fact by 2045, AI is expected to surpass human intelligence completely.
 
 
 ## 🌐 Socials: <br/>
