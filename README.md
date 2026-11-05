@@ -4,24 +4,24 @@ Software engineer and UX designer in Al Khobar, Saudi Arabia.
 
 ## What I'm building
 
-- **A modern super-sync engine in Rust**: P2P sync across your devices, plus proprietary clouds like Google Drive. Cross-platform, it runs on Android, Windows, macOS and more. End-to-end encrypted vaults, files on demand, AI agent change tracking with one-tap undo, conflict handling and a recovery bin. Chunk-level transfers send only what changed, and version history keeps earlier copies of your files. Ships as a desktop app, an Android app and a CLI.
-- **A modern Islamic app in Kotlin and Jetpack Compose**: works offline, with the Madani Mushaf, recitation downloads, khatmah planning, adhkar and Qibla. Released on Android at 1.2.0.
-- **A modern goals and focus planner in Flutter**: plan your day in time blocks, run a full-screen focus timer and track your goals from home-screen widgets. Cross-platform, it runs on Android and the web.
-- **An AI testing tool in TypeScript**: tests your web product and records a verdict and evidence for every assertion it checks. It also plants bugs to prove its own tests can catch them.
-- **[Brief Coder](https://github.com/Ahmad-AlModhayan/brief-coder)**: an Obsidian plugin that runs, views and edits code in 40 languages, right inside your notes. Opens Jupyter notebooks too. Open source, MIT.
+- **Cross-platform sync engine (Rust)**: P2P and cloud sync (including Google Drive) across desktop, Android, and CLI. Features chunk-level delta transfers, end-to-end encrypted vaults, files on demand, version history, conflict handling, and AI agent change tracking with one-tap undo.
+- **Offline-first Islamic app (Kotlin, Jetpack Compose)**: Android app (v1.2.0) with the Madani Mushaf, downloadable recitations, khatmah planning, adhkar, and Qibla.
+- **Goals and focus planner (Flutter)**: Daily time-blocking planner, full-screen focus timer, and home-screen goal widgets across Android and the web.
+- **AI testing agent (Rust/TypeScript/Python)**: Automated QA tool that records evidence-backed verdicts for every assertion and plants synthetic bugs to verify test reliability.
+- **[Brief Coder](https://github.com/Ahmad-AlModhayan/brief-coder)**: Open-source (MIT) Obsidian plugin that runs, views, and edits code in 40+ languages and opens Jupyter notebooks right inside your notes.
 
 ## Background
 
-- B.Sc. Computer Science (in progress), Imam Abdulrahman Bin Faisal University
-- Diploma in Computer and Information Technology, Jubail Industrial College, 2020 to 2024
-- Data analytics COOP, Saudi Aramco, 2024
-- Professional Scrum Master I
+- **B.Sc. in Computer Science** (in progress) — Imam Abdulrahman Bin Faisal University
+- **Diploma in Computer and Information Technology** — Jubail Industrial College (2020–2024)
+- **Data Analytics COOP** — Saudi Aramco (2024)
+- **Professional Scrum Master I** (PSM I)
 
 ## Tools I use most
 
 - **Languages**: Rust, Kotlin, Dart, TypeScript, Python, SQL
-- **Platforms**: Android, Tauri desktop, Flutter, Astro, FastAPI, PostgreSQL, Docker
-- **Design**: product and UX design, design systems, Arabic typography
+- **Platforms**: Android, Tauri, Flutter, Astro, FastAPI, PostgreSQL, Docker
+- **Design**: Product and UX design, design systems, Arabic typography
 
 ## Elsewhere
 
