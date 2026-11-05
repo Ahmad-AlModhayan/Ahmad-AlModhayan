@@ -1,7 +1,3 @@
-# Ahmad AlModhayan
-
-Software engineer and UX designer in Al Khobar, Saudi Arabia.
-
 ## What I'm building
 
 - **Cross-platform sync engine (Rust)**: P2P and cloud sync (including Google Drive) across desktop, Android, and CLI. Features chunk-level delta transfers, end-to-end encrypted vaults, files on demand, version history, conflict handling, and AI agent change tracking with one-tap undo.
