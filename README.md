@@ -18,7 +18,7 @@
 - **Languages**: Rust, Kotlin, Dart, TypeScript, Python, SQL
 - **Platforms**: Android, Tauri, Flutter, Astro, FastAPI, PostgreSQL, Docker
 - **Design**: Product and UX design, design systems, Arabic typography
-And most importantly, Claude, of course...
+- And most importantly, Claude, of course...
 
 ## Elsewhere
 
